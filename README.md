@@ -1,8 +1,8 @@
-# Hi, I'm Inju Moon 👋
+# Hi, I'm Injoo Mun 👋
 
 ### Mechanical Engineering Student | Robotics & Control Systems
 
-안녕하세요. 국립금오공과대학교에서 스마트모빌리티를 전공하고 있는 **문인주(Moon Inju)**입니다.
+안녕하세요. 국립금오공과대학교에서 스마트모빌리티를 전공하고 있는 문인주입니다.
 
 로봇의 움직임을 이해하고, 센서와 액추에이터를 활용하여 실제 시스템을 제어하는 분야에 관심이 있습니다.
 
